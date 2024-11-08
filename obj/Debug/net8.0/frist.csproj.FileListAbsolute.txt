@@ -1,0 +1,14 @@
+C:\Users\smc\source\repos\frist\frist\bin\Debug\net8.0\frist.exe
+C:\Users\smc\source\repos\frist\frist\bin\Debug\net8.0\frist.deps.json
+C:\Users\smc\source\repos\frist\frist\bin\Debug\net8.0\frist.runtimeconfig.json
+C:\Users\smc\source\repos\frist\frist\bin\Debug\net8.0\frist.dll
+C:\Users\smc\source\repos\frist\frist\bin\Debug\net8.0\frist.pdb
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\frist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\frist.AssemblyInfoInputs.cache
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\frist.AssemblyInfo.cs
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\frist.csproj.CoreCompileInputs.cache
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\frist.dll
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\refint\frist.dll
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\frist.pdb
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\frist.genruntimeconfig.cache
+C:\Users\smc\source\repos\frist\frist\obj\Debug\net8.0\ref\frist.dll
